@@ -32,12 +32,13 @@ li {
 }
 
 button {
-    height: 40px;
+    height: 30px;
     width: 100px;
-    border-radius: 15px;
+    border-radius: 5px;
     border-style: solid;
     color: white;
     background-color: #3882F6;
+    border-color: white;
 }
 
 /* TOP SECTION */
@@ -164,12 +165,35 @@ button {
 /* CONTENT 3 */
 
 .content-3 {
-    padding: 8% 4%;
+    padding: 8% 15%;
+}
+
+.container-blue {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .blue-box {
     padding: 2% 4%;
     background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.call {
+    font-size: 24px;
+    margin: 0px;
+    color: #F9FAF8;
+}
+
+.call-detail {
+    font-size: 18px;
+    color: #F9FAF8;
 }
 
 /* FOOTER */
