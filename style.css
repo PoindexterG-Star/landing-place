@@ -6,6 +6,7 @@ ul {
     list-style-type: none;
 }
 
+/* TOP SECTION */
 .top {
     background-color: #1F2937;
     color: white;
@@ -19,4 +20,13 @@ ul {
     width: 50px;
     border-color: blue;
     border-style: double;
+}
+
+/* CONTENT 1 */
+
+/* CONTENT 2 */
+
+.content-2 {
+    background-color: #E5E7EB;
+    padding: 8%;
 }
