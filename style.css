@@ -13,3 +13,10 @@ ul {
     padding-right: 10%;
     padding-bottom: 5%;
 }
+
+.box {
+    height: 50px;
+    width: 50px;
+    border-color: blue;
+    border-style: double;
+}
