@@ -202,4 +202,12 @@ button {
     height: 100px;
     width: 100%;
     background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-detail {
+    font-size: 18px;
+    color: #E5E7EB;
 }
